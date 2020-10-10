@@ -1,0 +1,12 @@
+Jan;Kowal;50;200;235
+Magda;Glowacka;28;600;312
+Weronika;Jozwiak;26;30;175
+Ania;Przybysz;45;230;462
+Sylwia;Jajnik;30;540;523
+Weronika;Ogorek;36;290;615
+Wiktoria;Kazik;45;70;723
+Angelika;Stasik;36;200;564
+Karolina;Kozik;34;400;376
+Adrianna;Ozieba;32;150;275
+Monika;Jurek;28;450;154
+Agnieszka;Jarczak;31;130;435

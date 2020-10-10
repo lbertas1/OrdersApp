@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "FOOD"
+  },
+  {
+    "id": 2,
+    "name": "CARS"
+  },
+  {
+    "id": 3,
+    "name": "WEAPON"
+  },
+  {
+    "id": 4,
+    "name": "COSMETICS"
+  },
+  {
+    "id": 5,
+    "name": "CLOTHES"
+  },
+  {
+    "id": 6,
+    "name": "COMPUTERS"
+  },
+  {
+    "id": 7,
+    "name": "PHONE"
+  }
+]

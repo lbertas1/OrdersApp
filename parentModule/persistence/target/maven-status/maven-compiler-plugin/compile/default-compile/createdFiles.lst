@@ -1,0 +1,12 @@
+persistence\converters\ReadFromTxt.class
+persistence\converters\JsonPreferencesConverter.class
+persistence\model\Preferences.class
+persistence\model\Client.class
+persistence\model\Product$ProductBuilder.class
+persistence\model\Product.class
+persistence\converters\JsonConverter.class
+persistence\exception\JsonConverterException.class
+persistence\converters\JsonClientConverter.class
+persistence\converters\JsonProductConverter.class
+persistence\model\Preferences$PreferencesBuilder.class
+persistence\model\Client$ClientBuilder.class

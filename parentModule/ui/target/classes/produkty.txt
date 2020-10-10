@@ -1,0 +1,14 @@
+chleb;2;10;1
+bulka;3;2;1
+pugol;1;100;2
+mercedes;1;120;2
+kalach;1;60;3
+rewolwer;2;20;3
+zelDoCiala;2;15;4
+zelDoPipki;1;20;4
+sukienka;3;30;5
+szpilki;2;20;5
+laptop;1;80;6
+komputer;1;70;6
+huawei;1;70;7
+samsung;1;70;7

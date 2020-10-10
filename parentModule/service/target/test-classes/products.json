@@ -1,0 +1,86 @@
+[
+  {
+    "name": "chleb",
+    "quantity": 2,
+    "price": 10.0,
+    "category": 1
+  },
+  {
+    "name": "bulka",
+    "quantity": 3,
+    "price": 2.0,
+    "category": 1
+  },
+  {
+    "name": "pugol",
+    "quantity": 1,
+    "price": 100.0,
+    "category": 2
+  },
+  {
+    "name": "mercedes",
+    "quantity": 1,
+    "price": 120.0,
+    "category": 2
+  },
+  {
+    "name": "kalach",
+    "quantity": 1,
+    "price": 60.0,
+    "category": 3
+  },
+  {
+    "name": "rewolwer",
+    "quantity": 2,
+    "price": 20.0,
+    "category": 3
+  },
+  {
+    "name": "zelDoCiala",
+    "quantity": 2,
+    "price": 15.0,
+    "category": 4
+  },
+  {
+    "name": "zelDoPipki",
+    "quantity": 1,
+    "price": 20.0,
+    "category": 4
+  },
+  {
+    "name": "sukienka",
+    "quantity": 3,
+    "price": 30.0,
+    "category": 5
+  },
+  {
+    "name": "szpilki",
+    "quantity": 2,
+    "price": 20.0,
+    "category": 5
+  },
+  {
+    "name": "laptop",
+    "quantity": 1,
+    "price": 80.0,
+    "category": 6
+  },
+  {
+    "name": "komputer",
+    "quantity": 1,
+    "price": 70.0,
+    "category": 6
+  },
+  {
+    "name": "huawei",
+    "quantity": 1,
+    "price": 70.0,
+    "category": 7
+  },
+  {
+    "name": "samsung",
+    "quantity": 1,
+    "price": 70.0,
+    "category": 7
+  }
+]

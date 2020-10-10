@@ -1,0 +1,9 @@
+C:\IntelijProjects\Z10_T03_MultimoduleApp\parentModule\persistence\src\main\java\persistence\converters\JsonConverter.java
+C:\IntelijProjects\Z10_T03_MultimoduleApp\parentModule\persistence\src\main\java\persistence\exception\JsonConverterException.java
+C:\IntelijProjects\Z10_T03_MultimoduleApp\parentModule\persistence\src\main\java\persistence\converters\JsonClientConverter.java
+C:\IntelijProjects\Z10_T03_MultimoduleApp\parentModule\persistence\src\main\java\persistence\model\Preferences.java
+C:\IntelijProjects\Z10_T03_MultimoduleApp\parentModule\persistence\src\main\java\persistence\converters\ReadFromTxt.java
+C:\IntelijProjects\Z10_T03_MultimoduleApp\parentModule\persistence\src\main\java\persistence\model\Client.java
+C:\IntelijProjects\Z10_T03_MultimoduleApp\parentModule\persistence\src\main\java\persistence\converters\JsonPreferencesConverter.java
+C:\IntelijProjects\Z10_T03_MultimoduleApp\parentModule\persistence\src\main\java\persistence\model\Product.java
+C:\IntelijProjects\Z10_T03_MultimoduleApp\parentModule\persistence\src\main\java\persistence\converters\JsonProductConverter.java

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Jan",
+    "surname": "Kowal",
+    "age": 50,
+    "cash": 200.0,
+    "preferences": [
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "name": "Magda",
+    "surname": "Glowacka",
+    "age": 28,
+    "cash": 600.0,
+    "preferences": [
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Weronika",
+    "surname": "Jozwiak",
+    "age": 26,
+    "cash": 30.0,
+    "preferences": [
+      1,
+      7,
+      5
+    ]
+  },
+  {
+    "name": "Ania",
+    "surname": "Przybysz",
+    "age": 45,
+    "cash": 230.0,
+    "preferences": [
+      4,
+      6,
+      2
+    ]
+  },
+  {
+    "name": "Sylwia",
+    "surname": "Jajnik",
+    "age": 30,
+    "cash": 540.0,
+    "preferences": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "name": "Weronika",
+    "surname": "Ogorek",
+    "age": 36,
+    "cash": 290.0,
+    "preferences": [
+      6,
+      1,
+      5
+    ]
+  },
+  {
+    "name": "Wiktoria",
+    "surname": "Kazik",
+    "age": 45,
+    "cash": 70.0,
+    "preferences": [
+      7,
+      2,
+      3
+    ]
+  },
+  {
+    "name": "Angelika",
+    "surname": "Stasik",
+    "age": 36,
+    "cash": 200.0,
+    "preferences": [
+      5,
+      6,
+      4
+    ]
+  },
+  {
+    "name": "Karolina",
+    "surname": "Kozik",
+    "age": 34,
+    "cash": 400.0,
+    "preferences": [
+      3,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Adrianna",
+    "surname": "Ozieba",
+    "age": 32,
+    "cash": 150.0,
+    "preferences": [
+      2,
+      7,
+      5
+    ]
+  },
+  {
+    "name": "Monika",
+    "surname": "Jurek",
+    "age": 28,
+    "cash": 450.0,
+    "preferences": [
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Agnieszka",
+    "surname": "Jarczak",
+    "age": 31,
+    "cash": 130.0,
+    "preferences": [
+      4,
+      3,
+      5
+    ]
+  }
+]
