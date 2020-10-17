@@ -1,7 +1,8 @@
 A multi-module application based on the customer, product and preferences class.
 
 Application characteristics:
-- multi-module application divided into: persistence, service, ui, written in java.
+- application written in java 15
+- multi-module application divided into: persistence, service, ui.
 Persistence is a module that contains models, service contains business logic, and ui is used to communication.
 - the application uses the gson library to convert data from and to json format.
 - the application join data from several files, where the test data is divided according to characteristics.
